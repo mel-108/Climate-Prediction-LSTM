@@ -38,11 +38,11 @@ Download the dataset from the link below:
 Place the dataset inside the project folder before running the code.
 
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
 
-git clone https://github.com/mel-108/Climate-Prediction-LSTM
+git clone https://github.com/mel-108/Climate-Prediction-LSTM.git
 
 2. Install dependencies:
 pip install -r requirements.txt
